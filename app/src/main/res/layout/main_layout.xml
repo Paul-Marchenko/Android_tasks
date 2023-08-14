@@ -19,11 +19,13 @@
         android:id="@+id/plusButton"
         android:layout_width="wrap_content"
         android:layout_height="38dp"
+        android:background="#E8ADAA"
         android:text="Click plusBtn" />
     <Button
         android:id="@+id/minusButton"
         android:layout_width="wrap_content"
         android:layout_height="38dp"
+        android:background="#008000"
         android:text="Click minusBtn" />
 
 
