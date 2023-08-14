@@ -14,6 +14,7 @@
         android:id="@+id/firstButton"
         android:layout_width="wrap_content"
         android:layout_height="38dp"
+        android:background="#FFFF00"
         android:text="Click firstBtn" />
     <Button
         android:id="@+id/plusButton"
