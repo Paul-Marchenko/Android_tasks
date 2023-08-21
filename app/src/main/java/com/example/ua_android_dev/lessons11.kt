@@ -1,0 +1,12 @@
+package com.example.ua_android_dev
+
+import android.os.Bundle
+import androidx.appcompat.app.AppCompatActivity
+
+class lessons11 : AppCompatActivity() {
+    var counter = 0
+    override fun onCreate(savedInstanceState: Bundle?) {
+        super.onCreate(savedInstanceState)
+        setContentView(R.layout.main_layout)
+    }
+}
